@@ -46,6 +46,6 @@ cd ekmas.py
 
 Execute o script Python:
 
-python app.py
+python ekmas.py
 
 Pronto! comece a testar combinações e formas de pagamentos nessa loja.
