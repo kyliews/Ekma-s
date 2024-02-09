@@ -15,7 +15,6 @@ Módulos:
 • SistemaUsuarios
 
 - Gerenciamento de usuários, cadastro e login.
-- Armazenamento seguro de credenciais.
 - Banco de dados em formato JSON para armazenamento de dados.
 
 • Produto
